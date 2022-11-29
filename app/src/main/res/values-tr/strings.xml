@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">To Do List</string>
+    <string name="task_name">Görev Adı</string>
+    <string name="important_task">Önemli Görev</string>
+    <string name="date_created">Oluşturulduğu tarih: </string>
+    <string name="hide_completed">Tamamlananları gizle</string>
+    <string name="delete_all_completed">Tamamlananları sil</string>
+    <string name="sort_by_date_created">Oluşturulma tarihine göre sırala</string>
+    <string name="sort_by_name">İsme göre sırala</string>
+    <string name="sort">Sırala</string>
+    <string name="search">Ara</string>
+    <string name="created">Oluşturuldu: </string>
+    <string name="yes">EVET</string>
+    <string name="cancel">İPTAL</string>
+    <string name="delete_all_completed_tasks">Tamamlanan tüm görevleri gerçekten silmek istiyor musunuz?</string>
+    <string name="confirm_deletion">Silmeyi onayla</string>
+    <string name="task_deleted">Görev Silindi</string>
+    <string name="undo">GERİ AL</string>
+    <string name="tasks">Görevler</string>
+    <string name="new_task">Yeni Görev</string>
+    <string name="edit_task">Görevi Düzenle</string>
+</resources>
